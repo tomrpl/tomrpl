@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
     <a href="https://github.com/tomrpl/oracle-decoder-ui">
-        <img width="278" alt="foundry-gas-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrpl&repo=oracle-decoder-ui-diff&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
+        <img width="278" alt="oracle-decoder-ui" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrpl&repo=oracle-decoder-ui&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
     <a href="https://github.com/tomrpl/morpho-blue-tools">
-        <img width="278" alt="foundry-gas-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrpl&repo=morpho-blue-tools-diff&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
+        <img width="278" alt="foundry-gas-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=tomrpl&repo=morpho-blue-tools&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&description_lines_count=3"></a>
 </p>
 <p align="center">
     <a href="https://github.com/morpho-labs/morpho-gpt">
